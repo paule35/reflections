@@ -22,3 +22,8 @@ Branching would be useful in keeping track of experimental changes. This allows 
 How do the diagrams help you visualize the branch structure?
 
 They allow me see how the branches connect. They also help me see the parents for each commit. 
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging two branches together is to consolidate the changes from the two branches together. The new branch will then have two parent commits. This is represented on the graph as showing two arrows coming away from the merge.
