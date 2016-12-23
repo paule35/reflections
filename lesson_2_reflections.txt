@@ -7,3 +7,13 @@ How is the staging area different from the working directory and the repository?
 
 The staging area acts as a middle-ground between the working directory and the repository. Files that are changed are added to the staging area, before being commited to the repository. 
 The value it offers is that it makes adding small incremental changes easier. These changes can be bundled up in one staging area, before being all committed to the repository.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By adding all changes towards a logical change to the staging area, you can then commit when the change has been completed. This allows the little changes to be saved before the final commit is made.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branching would be useful in keeping track of experimental changes. This allows them to be made away from the master branch and allows the changes to be merged back in when necessary.
