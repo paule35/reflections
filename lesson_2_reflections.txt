@@ -27,3 +27,23 @@ They allow me see how the branches connect. They also help me see the parents fo
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result of merging two branches together is to consolidate the changes from the two branches together. The new branch will then have two parent commits. This is represented on the graph as showing two arrows coming away from the merge.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging:
+Pros:
+-Saves time
+-Removes some of the complexity
+Cons: 
+-May miss conflicts that are not on the same lines. Behaviour which conflicts in the code.
+-Requires time to sort out merge conflicts.
+
+Manually:
+Pros:
+Forces coders to discuss changes, lessening chances of behavioural conflicts.
+Cons:
+-Takes more time
+-There may be no convienient time for the two coders to get together to discuss the changes.
+
+
