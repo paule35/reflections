@@ -17,3 +17,8 @@ By adding all changes towards a logical change to the staging area, you can then
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branching would be useful in keeping track of experimental changes. This allows them to be made away from the master branch and allows the changes to be merged back in when necessary.
+
+
+How do the diagrams help you visualize the branch structure?
+
+They allow me see how the branches connect. They also help me see the parents for each commit. 
