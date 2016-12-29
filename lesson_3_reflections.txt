@@ -6,3 +6,13 @@ If you were working in teams, where several people may want to push changes to t
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Because there may be changes made to the remote respository that conflict with your own changes.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are used on GitHub to duplicate a repository. This is useful for when you don't have permission to change a project, but want to make changes.
+Cloning is where you duplicate the repository onto your local computer from GitHub or from another part of the computer. It is useful when you want to start working on a project on your computer.
+Branching is where you have code which is not part of the main master branch. This is useful when you want to experiemnt or work on a feature.
+
+
+
