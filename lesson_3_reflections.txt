@@ -15,4 +15,8 @@ Cloning is where you duplicate the repository onto your local computer from GitH
 Branching is where you have code which is not part of the main master branch. This is useful when you want to experiemnt or work on a feature.
 
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The benefit is that you can work offline on that copy.
+
 
