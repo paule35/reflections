@@ -25,3 +25,6 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 You would need to have the other person send you their code themselves, and attempt to merge their changes manually. This would take far more time, but it may help you understand their changes better as you would have to go through it. It would also be much harder to experiment with your code and easily revert back changes.
 
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You would want to make changes in a separate branch when you are experimenting with a new feature. This may be code that could break the system, so you want to test in another branch before you merge into master.
